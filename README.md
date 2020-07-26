@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://rawcdn.githack.com/virtualex-itv/virtualex-itv/6bcb6f99056198a248c64a242288528d8dd69052/assets/icons/virtualex.png" /> </p>
 
----
-
 ## About Me
 
 I am a Solution Engineer in the US Private Sector Enterprise Northeast region at [VMware](https://www.vmware.com) covering the NY/NJ Metro area.  
@@ -27,7 +25,6 @@ I'm an all-around techie "geek" with a passion for VMware and Systems Engineerin
 
 I also have a blog which I primarily use as my own personal knowledgebase to write informational content related, but not limited to, VMware technologies.  *[Check it out](https://ithinkvirtual.com)!*
 
----
 ## Contact Info
 
 * <a href="mailto:info@ithinkvirtual.com">
@@ -45,7 +42,6 @@ I also have a blog which I primarily use as my own personal knowledgebase to wri
 * <a href="https://discord.gg/bmCBJVm">
     <img align="left" alt="Unofficial VMware Discord" width="21px" src="https://rawcdn.githack.com/virtualex-itv/virtualex-itv/c4fed751f8508273a3520ddc2cebb6cbbde133d5/assets/icons/discord.png" />
 
----
 ## Statistics
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
 
@@ -59,7 +55,6 @@ I also have a blog which I primarily use as my own personal knowledgebase to wri
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=virtualex-itv&show_icons=true&theme=nightowl&line_height=27" alt="William's github stats" />
 </a>
 
----
 ## Popular Repositories
 #### Internal Repositories
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
@@ -90,7 +85,6 @@ I also have a blog which I primarily use as my own personal knowledgebase to wri
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=homelab&theme=radical" />
 </a>
 
----
 <!-- Stats Counter --->
 <!-- Thanks to https://github.com/sagar-viradiya -->
 <p align="center">
