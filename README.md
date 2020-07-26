@@ -45,14 +45,14 @@ I also have a blog which I primarily use as my own personal knowledgebase to wri
 ## Statistics
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
 
-<!-- Top Language Dashboard -->
-<a href="https://github.com/virtualex-itv">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtualex-itv&theme=nightowl" />
-</a>
-
 <!-- Stats Dashboard -->
 <a href="https://github.com/virtualex-itv">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=virtualex-itv&show_icons=true&theme=nightowl&line_height=27" alt="William's github stats" />
+</a>
+
+<!-- Top Language Dashboard -->
+<a href="https://github.com/virtualex-itv">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtualex-itv&theme=nightowl" />
 </a>
 
 ## Popular Repositories
