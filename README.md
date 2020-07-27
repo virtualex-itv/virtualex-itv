@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi there, I'm Alex aka virtualex... 👨‍💻
+<!--## Hi there, I'm Alex aka virtualex... 👨‍💻-->
 <p align="center">
   <img src="https://rawcdn.githack.com/virtualex-itv/virtualex-itv/6bcb6f99056198a248c64a242288528d8dd69052/assets/icons/virtualex.png" /> </p>
 
-## About Me
+## About Me  👨‍💻
 
 I am a Solution Engineer in the US Private Sector Enterprise Northeast region at [VMware](https://www.vmware.com) covering the NY/NJ Metro area.  
 
