@@ -23,7 +23,7 @@ I am a Solution Engineer in the US Private Sector Enterprise Northeast region at
 
 I'm an all-around techie "geek" with a passion for VMware and Systems Engineering/Architecture.  I often find myself "nerding out" in my lab because I love learning new things, and what better of a place to do that than in my own dedicated playground.  That's what encourages me to excel at what I do! 🤓
 
-I also have a blog which I primarily use as my own personal knowledgebase to write informational content related, but not limited to, VMware technologies.  *[Check it out](https://ithinkvirtual.com)!*
+I also have a blog which I primarily use as my own personal knowledgebase to write informational content related but not limited to VMware technologies.  *[Check it out](https://ithinkvirtual.com)!*
 
 ## Contact Info
 
