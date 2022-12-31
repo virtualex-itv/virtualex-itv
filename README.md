@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me  👨‍💻
 
-I am a Solution Engineer in the US Private Sector Enterprise Northeast region at [VMware](https://www.vmware.com) covering the NY/NJ Metro area.  
+I am a Technical Account Manager in the US Public Sector SLED Northeast region at [VMware](https://www.vmware.com) covering the NY/NJ/PA Metro area.  
 
 I'm an all-around techie "geek" with a passion for VMware and Systems Engineering/Architecture.  I often find myself "nerding out" in my lab because I love learning new things, and what better of a place to do that than in my own dedicated playground.  That's what encourages me to excel at what I do! 🤓
 
@@ -71,7 +71,7 @@ I also have a blog which I primarily use as my own personal knowledgebase to wri
 
 #### External Repositories
 <!-- ESXi-Customizer-PS Repo -->
-<a href="https://github.com/VFrontDe/ESXi-Customizer-PS">
+<a href="https://github.com/VFrontDe-Org/ESXi-Customizer-PS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VFrontDe&repo=ESXi-Customizer-PS&theme=merko" />
 </a>
 
