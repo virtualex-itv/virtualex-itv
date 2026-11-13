@@ -1,0 +1,95 @@
+name: Update README cards
+
+# The public github-readme-stats.vercel.app deployment is paused, so the cards are generated here and committed.
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # fail_on_error + continue-on-error: a failed card keeps the last good SVG instead of an error card
+      - name: Stats card
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        continue-on-error: true
+        with:
+          card: stats
+          options: username=virtualex-itv&show_icons=true&theme=nightowl&line_height=27
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Top languages card
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        continue-on-error: true
+        with:
+          card: top-langs
+          options: username=virtualex-itv&theme=nightowl
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Pin - itv-lib
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        continue-on-error: true
+        with:
+          card: pin
+          options: username=virtualex-itv&repo=itv-lib&theme=dark
+          path: profile/pin-itv-lib.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Pin - chocolatey
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        continue-on-error: true
+        with:
+          card: pin
+          options: username=virtualex-itv&repo=chocolatey&theme=dark
+          path: profile/pin-chocolatey.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Pin - ESXi-Customizer-PS
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        continue-on-error: true
+        with:
+          card: pin
+          options: username=VFrontDe-Org&repo=ESXi-Customizer-PS&theme=merko
+          path: profile/pin-esxi-customizer-ps.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Pin - aac-lib
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        continue-on-error: true
+        with:
+          card: pin
+          options: username=Texiwill&repo=aac-lib&theme=cobalt
+          path: profile/pin-aac-lib.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Pin - homelab
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        continue-on-error: true
+        with:
+          card: pin
+          options: username=lamw&repo=homelab&theme=radical
+          path: profile/pin-homelab.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "Update README cards" || exit 0
+          git push
