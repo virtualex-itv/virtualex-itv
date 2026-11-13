@@ -56,26 +56,42 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
 
-      - name: Pin - ESXi-Customizer-PS
+      - name: Pin - vmware-scripts
         uses: stats-organization/github-readme-stats-action@v2.1.0
         continue-on-error: true
         with:
           card: pin
-          options: username=VFrontDe-Org&repo=ESXi-Customizer-PS&theme=merko
-          path: profile/pin-esxi-customizer-ps.svg
+          options: username=lamw&repo=vmware-scripts&theme=merko
+          path: profile/pin-vmware-scripts.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
-
-      - name: Pin - aac-lib
+      - name: Pin - vcf-fleet-automated-lab-deployment
         uses: stats-organization/github-readme-stats-action@v2.1.0
         continue-on-error: true
         with:
           card: pin
-          options: username=Texiwill&repo=aac-lib&theme=cobalt
-          path: profile/pin-aac-lib.svg
+          options: username=lamw&repo=vcf-fleet-automated-lab-deployment&theme=cobalt
+          path: profile/pin-vcf-fleet-automated-lab-deployment.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
-
+      - name: Pin - govmomi
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        continue-on-error: true
+        with:
+          card: pin
+          options: username=vmware&repo=govmomi&theme=tokyonight
+          path: profile/pin-govmomi.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+      - name: Pin - vChecker
+        uses: stats-organization/github-readme-stats-action@v2.1.0
+        continue-on-error: true
+        with:
+          card: pin
+          options: username=soultecag&repo=vChecker&theme=gruvbox
+          path: profile/pin-vchecker.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
       - name: Pin - homelab
         uses: stats-organization/github-readme-stats-action@v2.1.0
         continue-on-error: true
