@@ -59,9 +59,9 @@ I also have a blog which I primarily use as my own personal knowledgebase to wri
 #### Internal Repositories
 <!-- Thanks to https://github.com/anuraghazra/github-readme-stats -->
 
-<!-- itv-lib Repo -->
-<a href="https://github.com/virtualex-itv/itv-lib">
-  <img align="center" src="profile/pin-itv-lib.svg" />
+<!-- itv-scripts Repo -->
+<a href="https://github.com/virtualex-itv/itv-scripts">
+  <img align="center" src="profile/pin-itv-scripts.svg" />
 </a>
 
 <!-- chocolatey Repo -->
