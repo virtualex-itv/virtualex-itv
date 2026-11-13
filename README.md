@@ -70,14 +70,24 @@ I also have a blog which I primarily use as my own personal knowledgebase to wri
 </a>
 
 #### External Repositories
-<!-- ESXi-Customizer-PS Repo -->
-<a href="https://github.com/VFrontDe-Org/ESXi-Customizer-PS">
-  <img align="center" src="profile/pin-esxi-customizer-ps.svg" />
+<!-- vmware-scripts Repo -->
+<a href="https://github.com/lamw/vmware-scripts">
+  <img align="center" src="profile/pin-vmware-scripts.svg" />
 </a>
 
-<!-- aac-lib Repo -->
-<a href="https://github.com/texiwill/aac-lib">
-  <img align="center" src="profile/pin-aac-lib.svg" />
+<!-- vcf-fleet-automated-lab-deployment Repo -->
+<a href="https://github.com/lamw/vcf-fleet-automated-lab-deployment">
+  <img align="center" src="profile/pin-vcf-fleet-automated-lab-deployment.svg" />
+</a>
+
+<!-- govmomi Repo -->
+<a href="https://github.com/vmware/govmomi">
+  <img align="center" src="profile/pin-govmomi.svg" />
+</a>
+
+<!-- vChecker (VCF Checker) Repo -->
+<a href="https://github.com/soultecag/vChecker">
+  <img align="center" src="profile/pin-vchecker.svg" />
 </a>
 
 <!-- Homelab Repo -->
@@ -89,5 +99,5 @@ I also have a blog which I primarily use as my own personal knowledgebase to wri
 <!-- Thanks to https://github.com/sagar-viradiya -->
 <p align="center">
   Visitor Count<br>
-  <img src="https://komarev.com/ghpvc/?username=virtualex-itv" />
+  <img src="https://komarev.com/ghpvc/?username=virtualex-itv&base=2309" />
 </p>
