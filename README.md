@@ -31,8 +31,12 @@ I also have a blog which I primarily use as my own personal knowledgebase to wri
     <img align="left" alt="Email Me" width="21px" src="https://rawcdn.githack.com/virtualex-itv/virtualex-itv/c4fed751f8508273a3520ddc2cebb6cbbde133d5/assets/icons/email.png" />
 
 
-* <a href="https://twitter.com/ivirtualex">
-    <img align="left" alt="Alex López | Twitter" width="21px" src="https://rawcdn.githack.com/virtualex-itv/virtualex-itv/c4fed751f8508273a3520ddc2cebb6cbbde133d5/assets/icons/twitter.png" />
+* <a href="https://x.com/iVirtuAlex">
+    <img align="left" alt="Alex López | X" width="21px" src="assets/icons/x.svg" />
+
+
+* <a href="https://hachyderm.io/@virtualex" rel="me">
+    <img align="left" alt="Alex López | Mastodon" width="21px" src="assets/icons/mastodon.svg" />
 
 
 * <a href="https://www.linkedin.com/in/alopez27">
