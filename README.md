@@ -47,12 +47,12 @@ I also have a blog which I primarily use as my own personal knowledgebase to wri
 
 <!-- Stats Dashboard -->
 <a href="https://github.com/virtualex-itv">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=virtualex-itv&show_icons=true&theme=nightowl&line_height=27" alt="William's github stats" />
+<img align="center" src="profile/stats.svg" alt="Alex's GitHub stats" />
 </a>
 
 <!-- Top Language Dashboard -->
 <a href="https://github.com/virtualex-itv">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virtualex-itv&theme=nightowl" />
+<img align="center" src="profile/top-langs.svg" />
 </a>
 
 ## Popular Repositories
@@ -61,33 +61,33 @@ I also have a blog which I primarily use as my own personal knowledgebase to wri
 
 <!-- itv-lib Repo -->
 <a href="https://github.com/virtualex-itv/itv-lib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=virtualex-itv&repo=itv-lib&theme=dark" />
+  <img align="center" src="profile/pin-itv-lib.svg" />
 </a>
 
 <!-- chocolatey Repo -->
 <a href="https://github.com/virtualex-itv/chocolatey">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=virtualex-itv&repo=chocolatey&theme=dark" />
+  <img align="center" src="profile/pin-chocolatey.svg" />
 </a>
 
 #### External Repositories
 <!-- ESXi-Customizer-PS Repo -->
 <a href="https://github.com/VFrontDe-Org/ESXi-Customizer-PS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VFrontDe&repo=ESXi-Customizer-PS&theme=merko" />
+  <img align="center" src="profile/pin-esxi-customizer-ps.svg" />
 </a>
 
 <!-- aac-lib Repo -->
 <a href="https://github.com/texiwill/aac-lib">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=texiwill&repo=aac-lib&theme=cobalt" />
+  <img align="center" src="profile/pin-aac-lib.svg" />
 </a>
 
 <!-- Homelab Repo -->
 <a href="https://github.com/lamw/homelab">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lamw&repo=homelab&theme=radical" />
+  <img align="center" src="profile/pin-homelab.svg" />
 </a>
 
 <!-- Stats Counter --->
 <!-- Thanks to https://github.com/sagar-viradiya -->
 <p align="center">
   Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/virtualex-itv/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=virtualex-itv" />
 </p>
