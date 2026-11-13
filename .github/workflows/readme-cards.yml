@@ -36,13 +36,13 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
 
-      - name: Pin - itv-lib
+      - name: Pin - itv-scripts
         uses: stats-organization/github-readme-stats-action@v2.1.0
         continue-on-error: true
         with:
           card: pin
-          options: username=virtualex-itv&repo=itv-lib&theme=dark
-          path: profile/pin-itv-lib.svg
+          options: username=virtualex-itv&repo=itv-scripts&theme=dark
+          path: profile/pin-itv-scripts.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: "true"
 
