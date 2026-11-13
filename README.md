@@ -70,19 +70,9 @@ I also have a blog which I primarily use as my own personal knowledgebase to wri
 </a>
 
 #### External Repositories
-<!-- vmware-scripts Repo -->
-<a href="https://github.com/lamw/vmware-scripts">
-  <img align="center" src="profile/pin-vmware-scripts.svg" />
-</a>
-
 <!-- vcf-fleet-automated-lab-deployment Repo -->
 <a href="https://github.com/lamw/vcf-fleet-automated-lab-deployment">
   <img align="center" src="profile/pin-vcf-fleet-automated-lab-deployment.svg" />
-</a>
-
-<!-- govmomi Repo -->
-<a href="https://github.com/vmware/govmomi">
-  <img align="center" src="profile/pin-govmomi.svg" />
 </a>
 
 <!-- vChecker (VCF Checker) Repo -->
@@ -90,9 +80,19 @@ I also have a blog which I primarily use as my own personal knowledgebase to wri
   <img align="center" src="profile/pin-vchecker.svg" />
 </a>
 
+<!-- vmware-scripts Repo -->
+<a href="https://github.com/lamw/vmware-scripts">
+  <img align="center" src="profile/pin-vmware-scripts.svg" />
+</a>
+
 <!-- Homelab Repo -->
 <a href="https://github.com/lamw/homelab">
   <img align="center" src="profile/pin-homelab.svg" />
+</a>
+
+<!-- govmomi Repo -->
+<a href="https://github.com/vmware/govmomi">
+  <img align="center" src="profile/pin-govmomi.svg" />
 </a>
 
 <!-- Stats Counter --->
