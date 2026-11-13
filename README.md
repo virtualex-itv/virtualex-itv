@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About Me  👨‍💻
 
-I am a Technical Account Manager in the US Public Sector SLED Northeast region at [VMware](https://www.vmware.com) covering the NY/NJ/PA Metro area.  
+I am a Senior Technical Adoption Manager (formerly Technical Account Manager) in the US Public Sector SLED Northeast region at [VMware by Broadcom](https://www.vmware.com) covering the NY/NJ/PA Metro area.  
 
 I'm an all-around techie "geek" with a passion for VMware and Systems Engineering/Architecture.  I often find myself "nerding out" in my lab because I love learning new things, and what better of a place to do that than in my own dedicated playground.  That's what encourages me to excel at what I do! 🤓
 
